@@ -1,7 +1,9 @@
 # hello-world
 getting started with GitHub
 Hi All,
-I am a Technical Writer and am new to the world of GitHub.
-I am learning GitHub using the guide/document, and it's quite exciting so far.
-I hope that I get a good hand on GitHub.
+<ul>
+  <li>I am a <blink>Technical Writer</blink> and am new to the world of <b>GitHub</b>.</li>
+  <li>I am learning <b>GitHub</b> using the guide/document, and it's quite exciting so far.</li>
+  <li>I hope that I get a good hand on <i>GitHub</i>.</li>
+ </ul>
 Cheers:)
