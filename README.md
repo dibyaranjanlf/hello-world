@@ -6,4 +6,7 @@ Hi All,
   <li>I am learning <b>GitHub</b> using the guide/document, and it's quite exciting so far.</li>
   <li>I hope that I get a good hand on <i>GitHub</i>.</li>
 </ul>
+
+Added another line here
+
 Cheers:)
