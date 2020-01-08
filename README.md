@@ -7,6 +7,6 @@ Hi All,
   <li>I hope that I get a good hand on <i>GitHub</i>.</li>
 </ul>
 
-Added another line here
+Added another line here from patch-1 branch
 
 Cheers:)
