@@ -9,7 +9,7 @@ Hi All,
 
 ## This is heading 2
 
-This a line under heading 2
+This a line under heading 2 from master branch
 
 ### This is heading 3
 
